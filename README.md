@@ -7,6 +7,7 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heizshubham" alt="heizshubham" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/3d-cartoon-using-laptops-sitting-chairs-cute-cartoon-working-playing-social-media-technology-futuristic-poster-ai-generative_43969-5452.jpg?size=626&ext=jpg&ga=GA1.1.1826414947.1699056000&semt=ais">
 
 - 🔭 I’m currently working on **Responsive dynamic website**
 
