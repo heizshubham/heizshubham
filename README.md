@@ -11,13 +11,13 @@
 
 - 🔭 I’m currently working on **Responsive dynamic website**
 
-- 🌱 I’m currently learning **Reactjs,Nodejs and c++**
+- 🌱 I’m currently learning **Fullstack, DSA, SQL, JAVA and c++**
 
 - 🤝 I’m looking for help with **Database**
 
 - 👨‍💻 All of my projects are available at [https://heizshubham.github.io/Portfolio/](https://heizshubham.github.io/Portfolio/)
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Frontend Web Development**
 
 - 📫 How to reach me **heizshubham@gmail.com**
 
