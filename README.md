@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Database**
 
-- 👨‍💻 All of my projects are available at [https://heizshubham.github.io/Portfolio/](https://heizshubham.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://shubham-portfolio-plum.vercel.app/](https://shubham-portfolio-plum.vercel.app/)
 
 - 💬 Ask me about **Frontend Web Development**
 
