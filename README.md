@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shubham-portfolio-plum.vercel.app/](https://shubham-portfolio-plum.vercel.app/)
 
-- 💬 Ask me about **Frontend Web Development**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **heizshubham@gmail.com**
 
