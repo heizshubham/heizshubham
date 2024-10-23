@@ -127,7 +127,7 @@
 
 <h3 align="left">🏆 GitHub Achievements:</h3>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heizshubham&theme=dark" alt="heizshubham-trophies" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heizshubham&theme=onedark" alt="heizshubham-trophies" /></a>
 </p>
 
 <hr>
