@@ -1,7 +1,6 @@
-<!-- Start of GitHub Profile with Enhanced Features -->
 
 <!-- Custom Background Image -->
-<img align="right" alt="Coding" style="border-radius:5px" src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg">
+<img align="right" alt="Coding" style="border-radius:10px" src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg">
 
 <div style="background-image: url('https://i.imgur.com/bDl8TgW.jpg'); background-size: cover; padding: 20px;">
   
@@ -16,7 +15,7 @@
 
   <!-- Profile Views Counter -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=heizshubham&label=Profile%20views&color=brightgreen&style=flat-square" alt="heizshubham" />
+    <img src="https://komarev.com/ghpvc/?username=heizshubham&label=Profile%20views&color=brightblue&style=flat-square" alt="heizshubham" />
   </p>
 
   <!-- Trophy Section -->
@@ -128,7 +127,7 @@
 
 <h3 align="left">🏆 GitHub Achievements:</h3>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heizshubham&theme=onedark" alt="heizshubham-trophies" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heizshubham&theme=dark" alt="heizshubham-trophies" /></a>
 </p>
 
 <hr>
