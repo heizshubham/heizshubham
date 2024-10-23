@@ -22,6 +22,8 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 </div>
 
+<br>
+
   <!-- Trophy Section -->
   <p align="left"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
