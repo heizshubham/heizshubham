@@ -22,7 +22,6 @@
   <p align="left"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=heizshubham&theme=onedark&row=1&column=6" alt="heizshubham" />
-
     </a>
   </p>
 
@@ -119,11 +118,11 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=heizshubham&show_icons=true&locale=en&theme=dark&count_private=true" alt="heizshubham" />
   </p>
   <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heizshubham&theme=dark" alt="heizshubham" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heizshubham&show_icons=true&locale=en&theme=dark" alt="heizshubham" />
   </p>
 
   <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heizshubham&show_icons=true&locale=en&layout=compact&theme=dark" alt="heizshubham-languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heizshubham&show_icons=true&locale=en&theme=dark" alt="heizshubham-languages" />
 </p>
 
 <h3 align="left">🏆 GitHub Achievements:</h3>
