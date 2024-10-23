@@ -126,6 +126,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heizshubham&show_icons=true&locale=en&layout=compact&theme=radical" alt="heizshubham-languages" />
 </p>
 
+<h3 align="left">🏆 GitHub Achievements:</h3>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heizshubham&theme=onedark" alt="heizshubham-trophies" /></a>
+</p>
+
+<hr>
+
   <!-- Contribution Graph -->
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=heizshubham&theme=dracula)
