@@ -29,6 +29,8 @@
     </a>
   </p>
 
+  <br>
+
   <!-- Profile Image -->
   <img align="right" alt="Coding" width="400" style="border-radius: 50px; box-shadow: 0px 0px 10px #00bfff;" src="https://img.freepik.com/premium-photo/3d-cartoon-using-laptops-sitting-chairs-cute-cartoon-working-playing-social-media-technology-futuristic-poster-ai-generative_43969-5452.jpg?size=626&ext=jpg&ga=GA1.1.1826414947.1699056000&semt=ais">
 
