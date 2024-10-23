@@ -15,7 +15,7 @@
 
   <!-- Profile Views Counter -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=heizshubham&label=Profile%20views&color=brightblue&style=flat-square" alt="heizshubham" />
+    <img src="https://komarev.com/ghpvc/?username=heizshubham&label=Profile%20views&color=brightgreen&style=flat-square" alt="heizshubham" />
   </p>
 
   <!-- Trophy Section -->
