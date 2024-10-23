@@ -1,12 +1,11 @@
-
 <!-- Custom Background Image -->
 <img align="right" alt="Coding" style="border-radius:10px" src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg">
 
-<div style="background-image: url('https://i.imgur.com/bDl8TgW.jpg'); background-size: cover; padding: 20px;">
+<div style="background-image: linear-gradient(135deg, rgba(18,18,42,0.9) 10%, rgba(0,36,61,0.9) 90%), url('https://i.imgur.com/bDl8TgW.jpg'); background-size: cover; padding: 40px; border-radius: 20px; box-shadow: 0px 0px 20px rgba(0, 255, 255, 0.3);">
   
   <!-- Title with Glow Effect -->
-  <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 3em; color: #f4f4f4; text-shadow: 0px 0px 15px rgba(255, 255, 255, 0.8);">Hi 👋, I'm Shubham Pandey</h1>
-  <h3 align="center" style="color: #00bfff; text-shadow: 0px 0px 10px #00bfff;">A Passionate Web Developer from India 🚀</h3>
+  <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 3em; color: #f4f4f4; text-shadow: 0px 0px 20px rgba(255, 255, 255, 1);">Hi 👋, I'm Shubham Pandey</h1>
+  <h3 align="center" style="color: #00bfff; text-shadow: 0px 0px 15px #00bfff;">A Passionate Web Developer from India 🚀</h3>
 
   <!-- Typing Animation with Color -->
   <p align="center">
@@ -18,11 +17,11 @@
     <img src="https://komarev.com/ghpvc/?username=heizshubham&label=Profile%20views&color=brightgreen&style=flat-square" alt="heizshubham" />
   </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
-</div>
+  <div align="center">
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+  </div>
 
-<br>
+  <br>
 
   <!-- Trophy Section -->
   <p align="left"> 
@@ -74,102 +73,48 @@
   <br>
 
   <!-- Languages and Tools -->
-<h3 align="left">💻 Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.blender.org/" target="_blank">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
-  </a>
-  <a href="https://www.cplusplus.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-</p>
-
-
+  <h3 align="left">💻 Languages and Tools:</h3>
+  <p align="left"> 
+    <a href="https://www.cprogramming.com/" target="_blank"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+    </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.mysql.com/" target="_blank"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.mongodb.com/" target="_blank"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.java.org" target="_blank"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.python.org" target="_blank"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    </a> 
+    <a href="https://firebase.google.com/" target="_blank"> 
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+    </a> 
+    <a href="https://git-scm.com/" target="_blank"> 
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    </a> 
+  </p>
+  
   <br>
 
   <!-- GitHub Stats -->
   <h3 align="left">📊 GitHub Stats:</h3>
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=heizshubham&show_icons=true&locale=en&theme=dark&count_private=true" alt="heizshubham" />
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=heizshubham&show_icons=true&theme=radical" alt="heizshubham"/>
   </p>
-  <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heizshubham&show_icons=true&locale=en&theme=dark" alt="heizshubham" />
+  <p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heizshubham&theme=radical" alt="heizshubham" />
   </p>
-
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heizshubham&show_icons=true&locale=en&theme=dark" alt="heizshubham-languages" />
-</p>
-
-<h3 align="left">🏆 GitHub Achievements:</h3>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heizshubham&theme=onedark" alt="heizshubham-trophies" /></a>
-</p>
-
-<hr>
-
-  <!-- Contribution Graph -->
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=heizshubham&theme=dracula)
-  
-
 </div>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="motivational quote" />
-</p>
-
-<hr>
-
-  <!-- Footer with Cool Style -->
-  <footer style="background-color: #000000; padding: 10px; text-align: center; color: #ffffff;">
-    <p>© 2024 Shubham Pandey. All Rights Reserved.</p>
-  </footer>
-
-<!-- End of GitHub Profile -->
-
-
-
-
-
-
-
-
-
-
-
