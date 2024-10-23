@@ -122,7 +122,7 @@
   </p>
 
   <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heizshubham&show_icons=true&locale=en&layout=compact&theme=radical" alt="heizshubham-languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heizshubham&show_icons=true&locale=en&layout=compact&theme=dark" alt="heizshubham-languages" />
 </p>
 
 <h3 align="left">🏆 GitHub Achievements:</h3>
