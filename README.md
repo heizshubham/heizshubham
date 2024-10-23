@@ -22,6 +22,7 @@
   <p align="left"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=heizshubham&theme=dark&row=1&column=6" alt="heizshubham" />
+
     </a>
   </p>
 
