@@ -1,109 +1,121 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+<!-- Start of GitHub Profile with Enhanced Features -->
+
+<!-- Custom Background Image -->
+<div style="background-image: url('https://i.imgur.com/bDl8TgW.jpg'); background-size: cover; padding: 20px;">
+  
+  <!-- Title with Glow Effect -->
+  <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 3em; color: #f4f4f4; text-shadow: 0px 0px 15px rgba(255, 255, 255, 0.8);">Hi 👋, I'm Shubham Pandey</h1>
+  <h3 align="center" style="color: #00bfff; text-shadow: 0px 0px 10px #00bfff;">A Passionate Web Developer from India 🚀</h3>
+
+  <!-- Typing Animation with Color -->
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=25&pause=1000&color=02F5F2&center=true&vCenter=true&width=500&lines=Frontend+Developer;Problem+Solver;Fullstack+Enthusiast;DSA+Learner;Tech+Explorer+%F0%9F%8C%8F" alt="Typing SVG" />
+  </p>
+
+  <!-- Profile Views Counter -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=heizshubham&label=Profile%20views&color=brightgreen&style=flat-square" alt="heizshubham" />
+  </p>
+
+  <!-- Trophy Section -->
+  <p align="left"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=heizshubham&theme=monokai&row=1&column=6" alt="heizshubham" />
+    </a>
+  </p>
+
+  <!-- Profile Image -->
+  <img align="right" alt="Coding" width="400" style="border-radius: 50px; box-shadow: 0px 0px 10px #00bfff;" src="https://img.freepik.com/premium-photo/3d-cartoon-using-laptops-sitting-chairs-cute-cartoon-working-playing-social-media-technology-futuristic-poster-ai-generative_43969-5452.jpg?size=626&ext=jpg&ga=GA1.1.1826414947.1699056000&semt=ais">
+
+  <!-- About Me Section -->
+  <ul style="font-size: 1.2em; color: #ffffff;">
+    <li>🔭 I’m currently working on <b>Responsive dynamic websites</b></li>
+    <li>🌱 I’m currently learning <b>Fullstack, DSA, SQL, JAVA, and C++</b></li>
+    <li>🤝 I’m looking for help with <b>Database Management</b></li>
+    <li>👨‍💻 Check my work at <a href="https://shubham-portfolio-plum.vercel.app/" style="color: #00bfff; text-decoration: underline;">My Portfolio</a></li>
+    <li>💬 Ask me about <b>Web Development, JavaScript, and DSA</b></li>
+    <li>📫 Reach me at <b>heizshubham@gmail.com</b></li>
+  </ul>
+
+  <br>
+
+  <!-- Connect with Me -->
+  <h3 align="left">🔗 Connect with me:</h3>
+  <p align="left">
+    <a href="https://twitter.com/theshubham404" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="theshubham404" />
+    </a>
+    <a href="https://linkedin.com/in/www.linkedin.com/in/shubham-pandey-02852a1b2" target="blank">
+      <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-shubham-pandey" />
+    </a>
+    <a href="https://fb.com/theshubham404" target="blank">
+      <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="theshubham404" />
+    </a>
+    <a href="https://instagram.com/theshubham404" target="blank">
+      <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="theshubham404"/>
+    </a>
+    <a href="https://www.hackerrank.com/heizshubham" target="blank">
+      <img align="center" src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="heizshubham" />
+    </a>
+    <a href="https://www.leetcode.com/heizshubham" target="blank">
+      <img align="center" src="https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="heizshubham" />
+    </a>
+  </p>
+
+  <br>
+
+  <!-- Languages and Tools -->
+  <h3 align="left">🛠️ Languages and Tools:</h3>
+  <p align="left">
+    <a href="https://www.w3.org/html/" target="_blank"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+    </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.mysql.com/" target="_blank"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.python.org" target="_blank"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    </a> 
+    <a href="https://git-scm.com/" target="_blank"> 
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.gnu.org/software/bash/" target="_blank"> 
+      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
+    </a> 
+    <a href="https://firebase.google.com/" target="_blank"> 
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.cprogramming.com/" target="_blank"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.java.org" target="_blank"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+    </a>
+  </p>
+
+  <br>
+
+  <!-- GitHub Stats -->
+  <h3 align="left">📊 GitHub Stats:</h3>
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=heizshubham&show_icons=true&locale=en&theme=dark&count_private=true" alt="heizshubham" />
+  </p>
+  <p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heizshubham&theme=dark" alt="heizshubham" />
+  </p>
+
+  <!-- Contribution Graph -->
+  <p align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=heizshubham&theme=react-dark" alt="heizshubham's contribution graph" />
+  </p>
+  
+  <!-- Footer with Cool Style -->
+  <footer style="background-color: #000000; padding: 10px; text-align: center; color: #ffffff;">
+    <p>© 2024 Shubham Pandey. All Rights Reserved.</p>
+  </footer>
 </div>
 
-# 🚀 Hi, I'm Shubham Pandey! 👨‍💻
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2300FF00&center=true&vCenter=true&width=500&lines=Frontend+Developer+%7C+Java+%7C+DSA+Enthusiast+%7C+Problem+Solver;Transforming+Ideas+Into+Responsive+Code!+%F0%9F%94%A5;Always+learning+and+building+%F0%9F%92%BB;Exploring+Backend+Development+as+well">
-</p>
-
----
-
-## 🌟 About Me
-
-- 🔭 I’m currently working on **Responsive dynamic website**
-- 🌱 I’m learning **Fullstack, DSA, SQL, Java, C++**
-- 🤝 Looking to collaborate on **Open Source and innovative projects**
-- 💬 Ask me about **Web Development** or **Java**!
-- 📫 Reach me at **heizshubham@gmail.com**
-- ⚡ Fun fact: **I love chatting with AI and learning new tech daily!**
-
----
-
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=heizshubham&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=heizshubham&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="80%" src="https://activity-graph.herokuapp.com/graph?username=heizshubham&theme=github&bg_color=0d1117&hide_border=true&color=00FF00&line=FF00FF&point=FFFFFF" />
-</p>
-
----
-
-## 🛠️ Languages & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
----
-
-## 🚀 Cool Projects
-
-<p align="center">
-  <a href="https://github.com/heizshubham/your-project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=heizshubham&repo=project1&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/heizshubham/your-project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=heizshubham&repo=project2&theme=radical&hide_border=true" />
-  </a>
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=heizshubham&theme=radical&no-bg=true&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 📲 Connect with me
-
-<p align="center">
-  <a href="https://twitter.com/theshubham404" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shubham-pandey-02852a1b2/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://fb.com/theshubham404" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/theshubham404" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.hackerrank.com/heizshubham" target="_blank">
-    <img src="https://img.shields.io/badge/Hackerrank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 🔥 Fun Feature: Dynamic Quote Generator
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
-</p>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif" width="300">
-</div>
+<!-- End of GitHub Profile -->
