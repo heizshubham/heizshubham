@@ -122,6 +122,10 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heizshubham&theme=dark" alt="heizshubham" />
   </p>
 
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heizshubham&show_icons=true&locale=en&layout=compact&theme=radical" alt="heizshubham-languages" />
+</p>
+
   <!-- Contribution Graph -->
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=heizshubham&theme=dracula)
