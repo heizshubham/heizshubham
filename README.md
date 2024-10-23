@@ -137,18 +137,19 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=heizshubham&theme=dracula)
   
-  <!-- Footer with Cool Style -->
-  <footer style="background-color: #000000; padding: 10px; text-align: center; color: #ffffff;">
-    <p>© 2024 Shubham Pandey. All Rights Reserved.</p>
-  </footer>
+
 </div>
-
-
-<hr>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="motivational quote" />
 </p>
+
+<hr>
+
+  <!-- Footer with Cool Style -->
+  <footer style="background-color: #000000; padding: 10px; text-align: center; color: #ffffff;">
+    <p>© 2024 Shubham Pandey. All Rights Reserved.</p>
+  </footer>
 
 <!-- End of GitHub Profile -->
 
