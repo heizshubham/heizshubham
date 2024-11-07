@@ -122,7 +122,7 @@
   <br>
 
   <!-- GitHub Stats -->
-   <h3 align="left">📊 GitHub Stats:</h3>
+   <h2 align="center">📊 GitHub Stats:</h2>
   <!-- <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=heizshubham&show_icons=true&locale=en&theme=dark&count_private=true" alt="heizshubham" />
   </p> -->
