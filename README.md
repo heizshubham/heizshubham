@@ -118,9 +118,9 @@
   <a href="https://www.cplusplus.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
-  <a href="https://www.github.com/" target="_blank">
-    <img src="https://raw.github.com/icons/master/icons" alt="github" width="40" height="40"/>
-  </a>
+    <a href="https://www.github.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> 
+  </a> 
 </p>
 
 
