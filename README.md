@@ -109,7 +109,7 @@
 </p> -->
 
 
-<h1 align="center">💻 Tech Stack:</h1>
+<h2 align="center">💻 Tech Stack:</h2>
 
 <p align="center"
 
@@ -134,7 +134,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heizshubham&show_icons=true&locale=en&theme=dark" alt="heizshubham-languages" />
 </p> 
 
-<h3 align="left">🏆 GitHub Achievements:</h3>
+<h2 align="center">🏆 GitHub Achievements:</h2>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heizshubham&theme=onedark" alt="heizshubham-trophies" /></a>
 </p>
