@@ -124,7 +124,7 @@
   <br>
 
   <!-- GitHub Stats -->
-  <!-- <h3 align="left">📊 GitHub Stats:</h3>
+   <h3 align="left">📊 GitHub Stats:</h3>
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=heizshubham&show_icons=true&locale=en&theme=dark&count_private=true" alt="heizshubham" />
   </p>
@@ -134,7 +134,7 @@
 
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heizshubham&show_icons=true&locale=en&theme=dark" alt="heizshubham-languages" />
-</p> -->
+</p> 
 
 <h3 align="left">🏆 GitHub Achievements:</h3>
 <p align="center">
