@@ -4,7 +4,7 @@
 
 <div style="background-image: url('https://i.imgur.com/bDl8TgW.jpg'); background-size: cover; padding: 20px;">
   
-  <!-- Title with Glow Effect -->
+  <!-- Title with Glow Effect! -->
   <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 3em; color: #f4f4f4; text-shadow: 0px 0px 15px rgba(255, 255, 255, 0.8);">Hi 👋, I'm Shubham Pandey</h1>
   <h3 align="center" style="color: #00bfff; text-shadow: 0px 0px 10px #00bfff;">A Passionate Web Developer from India 🚀</h3>
 
