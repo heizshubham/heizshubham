@@ -8,7 +8,7 @@
   <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 3em; color: #f4f4f4; text-shadow: 0px 0px 15px rgba(255, 255, 255, 0.8);">Hi 👋, I'm Shubham Pandey</h1>
   <h3 align="center" style="color: #00bfff; text-shadow: 0px 0px 10px #00bfff;">A Passionate Web Developer from India 🚀</h3>
 
-  <!-- Typing Animation with Color -->
+  <!-- Typing Animation with Color! -->
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=25&pause=1000&color=02F5F2&center=true&vCenter=true&width=500&lines=Frontend+Developer;Problem+Solver;Fullstack+Enthusiast;DSA+Learner;Tech+Explorer+%F0%9F%8C%8F" alt="Typing SVG" />
   </p>
